@@ -19,7 +19,7 @@ This repository documents a cautious review of Cynbit's publicly accessible page
 
 ## Before submitting
 
-1. Replace `[Your Name]`.
+1. Shaik Myhfuz.
 2. Inspect normal browser requests via Chrome DevTools → Network; record only what you actually observe.
 3. Keep unknown items marked “Not verified”; do not invent endpoints, payloads, status codes, or vulnerabilities.
 4. Redact cookies, tokens, personal data, and sensitive headers from screenshots.
